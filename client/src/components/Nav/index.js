@@ -24,7 +24,7 @@ function Nav() {
             <li class="nav-item">
 
               <Link className="nav-link"
-                to="/gallery"
+                to="/Gallery"
               >
                 Gallery
               </Link>

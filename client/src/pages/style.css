@@ -1,13 +1,39 @@
 p {
-    font-size: 18px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Open Sans', sans-serif;
 
 }
+h1 {
+    font-family: 'Nunito', sans-serif;
+    color:#323738;
+    border-bottom: 6px solid  #937782;
+}
 h2 {
-    color:#a180bb;
+    color:#7b1649;
     text-align: center;
     font-family: 'dancing script', cursive;
 }
 
 .row {
-    padding: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+body {
+    background-image: url(../Images/background.jpg);
+}
+
+#aboutRow {
+    background-color:#f8f5f5;
+    padding-left: 15px;
+}
+
+.row.aboutMe {
+    padding-bottom: 15%;
+}
+
+.contactRow {
+    text-align: center;
+    padding-bottom: 10px;
 }

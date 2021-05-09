@@ -1,11 +1,12 @@
 .navbar {
-    background-color: cadetblue;
+    background-color: #323738;
 }
 
 .h1 {
     font-size: 36px;
     padding-left: 20%;
-    font-family: 'Nunito', sans-serif;;
+    font-family: 'Nunito', sans-serif;
+    
 }
 
 #navbarSupportedContent {
