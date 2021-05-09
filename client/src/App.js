@@ -1,25 +1,29 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "./pages/Home";
-import Detail from "./pages/Detail";
+// import Detail from "./pages/Detail";
 import NoMatch from "./pages/NoMatch";
 import Nav from "./components/Nav";
-import { StoreProvider } from "./utils/GlobalState";
-import FavoritesList from "./pages/FavoritesList";
+import Footer from "./components/Footer";
+import Gallery from "./pages/Gallery";
+// import FavoritesList from "./pages/FavoritesList";
 
 function App() {
   return (
     <Router>
       <div>
-        <StoreProvider>
+        
           <Nav />
           <Switch>
             <Route exact path="/" component={Home} />
             <Route exact path="/home" component={Home} />
-            <Route component={NoMatch} />
+            <Route exact path="/gallery" component={Gallery} />
+            <Route component= {NoMatch} />
           </Switch>
-        </StoreProvider>
+          <Footer>
+      </Footer>
       </div>
+     
     </Router>
   );
 }

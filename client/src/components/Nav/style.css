@@ -1,0 +1,13 @@
+.navbar {
+    background-color: cadetblue;
+}
+
+.h1 {
+    font-size: 36px;
+    padding-left: 20%;
+    font-family: 'Nunito', sans-serif;;
+}
+
+#navbarSupportedContent {
+    display:block;
+}
