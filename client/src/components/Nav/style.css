@@ -11,3 +11,8 @@
 #navbarSupportedContent {
     display:block;
 }
+
+.nav-link {
+    font-size:larger;
+    text-align: right;
+}

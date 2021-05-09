@@ -4,9 +4,9 @@ import './style.css';
 const Home = () => {
   return (
     <Container fluid>
-      <Row id = "aboutRow">
+      <Row id="aboutRow">
         <Col size="md-12">
-        <p id = "aboutp">
+          <p id = "aboutp">
                     I’m a 30-year-old vibrant female persuing a career change to web development. Currently I’m enrolled in the Full Stack Coding Bootcamp through the University of Minnesota. The program teaches the MERN stack and I’ll graduate in May 2021. When I’m not in class or studying, I enjoy trail running with my dog, cooking, snowboarding, or catching up on reality TV shows. 
                 </p>
                 <p>
@@ -29,6 +29,7 @@ const Home = () => {
                 <h2>Pura Vida!</h2>
             <br></br>
             <br></br>
+
         </Col>
       </Row>
     </Container>
