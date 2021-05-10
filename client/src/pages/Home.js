@@ -7,14 +7,13 @@ import Headshot from "../components/Headshot";
 const Home = () => {
   return (
     <Container fluid>
-      <br></br>
+      <header>
       <Row>
         <h1>About Me</h1>
       </Row>
+      </header>
       <Row>
         <Col size="md-12">
-        <br></br>
-        <br></br>
          <Headshot
           image = {me}
         />

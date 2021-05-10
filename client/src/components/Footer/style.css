@@ -8,6 +8,13 @@ footer {
     font-size: 18px;
     height: 40px;
     border-top:#b7cfcf 5px solid;
+}
 
 
+
+footer .fab {
+    margin-top: 9px;
+    margin-right: 10px;
+    margin-left: 10px;
+    color:#a180bb;
 }

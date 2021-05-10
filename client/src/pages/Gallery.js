@@ -10,11 +10,13 @@ import Card from "../components/Card";
 const Gallery = () => {
     return (
         <Container fluid>
+            <header>
             <Row>
                 <Col size="md-12">
                     <h1>Gallery</h1>
                 </Col>
                 </Row>
+                </header>
                 <Row>
                 <Card
                      image = {projectFour} 
@@ -46,8 +48,8 @@ const Gallery = () => {
                      future."
                     repo= "https://github.com/markkimeyer/daily-planner"  
                         />
-                </Row>
-<Row>
+                        </Row>
+                        <Row>
 <Card
                      image = {projectThree} 
                      alt= "project one screenshot"

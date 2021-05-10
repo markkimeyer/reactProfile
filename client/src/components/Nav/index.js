@@ -5,8 +5,7 @@ import { Link } from "react-router-dom";
 function Nav() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark">
-      <a className="navbar-brand" href="/"></a>
-      <span class="navbar-brand mb-1 h1">Markki Meyer</span>
+      <span class="mb-1 h1">Markki Meyer</span>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -26,7 +25,7 @@ function Nav() {
               <Link className="nav-link"
                 to="/Gallery"
               >
-                Gallery
+                Projects
               </Link>
             </li>
             <li class="nav-item">

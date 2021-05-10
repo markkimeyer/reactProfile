@@ -3,14 +3,12 @@
 }
 
 .h1 {
-    font-size: 36px;
+    font-size: 26px;
     padding-left: 20%;
-    font-family: 'Nunito', sans-serif;
-    
-}
+    font-family: 'Handlee', sans-serif;
+    color: #a180bb;
+    text-align: left;
 
-#navbarSupportedContent {
-    display:block;
 }
 
 .nav-link {
