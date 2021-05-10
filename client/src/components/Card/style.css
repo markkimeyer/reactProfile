@@ -1,3 +1,8 @@
-.project-img {
-    float: none;
+
+img.project-img:hover{
+    opacity: 60%;
+
+}
+button:hover {
+    font-weight: 600;
 }

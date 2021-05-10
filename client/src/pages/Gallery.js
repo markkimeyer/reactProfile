@@ -53,10 +53,10 @@ const Gallery = () => {
 <Card
                      image = {projectThree} 
                      alt= "project one screenshot"
-                     live = "https://markkimeyer.github.io/daily-planner/"
+                     live = "https://markkimeyer.github.io/codeQUIZ/"
                      title= "Quiz Whiz"
                      description = "For all dog lovers-- a timed multiple choice quiz of different dog breeds."
-                    repo= "https://github.com/markkimeyer/daily-planner"  
+                    repo= "https://github.com/markkimeyer/codeQUIZ"  
                         />
                 </Row>
 
