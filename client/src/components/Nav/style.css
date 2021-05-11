@@ -4,7 +4,7 @@
 
 .h1 {
     font-size: 26px;
-    padding-left: 20%;
+    padding-left: 1.5rem;
     font-family: 'Handlee', sans-serif;
     color: #a180bb;
     text-align: left;
@@ -13,5 +13,8 @@
 
 .nav-link {
     font-size:larger;
-    text-align: right;
 }
+/* 
+.collapse {
+    p;
+} */

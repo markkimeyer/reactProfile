@@ -14,7 +14,7 @@ h1 {
     color:#323738;
     border-bottom: 6px solid  #937782;
 }
-h2 {
+h3 {
     color:#a180bb;
     text-align: center;
     font-family: 'dancing script', cursive;
@@ -31,8 +31,9 @@ body {
 
 #aboutRow {
     background-color:#f8f5f5;
-    padding-left: 15px;
+    padding-left: 20px;
     padding-top: 15px;
+    padding-right: 15px;
 }
 
 .row.aboutMe {

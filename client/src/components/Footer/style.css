@@ -18,3 +18,11 @@ footer .fab {
     margin-left: 10px;
     color:#a180bb;
 }
+
+a {
+    color: transparent;
+}
+
+a:hover {
+    color: transparent;
+}

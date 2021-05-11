@@ -10,7 +10,7 @@ function Nav() {
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="collapse navbar-collapse justify-content-end pe-4" id="navbarSupportedContent">
         <ul class="nav navbar-nav navbar-right ml-auto">
           <li>
             <Link className="nav-link"
