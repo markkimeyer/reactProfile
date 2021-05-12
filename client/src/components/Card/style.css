@@ -5,7 +5,7 @@
 }
 
 
-img.project-img:hover{
+a img.project-img:hover{
     opacity: 60%;
 
 }
