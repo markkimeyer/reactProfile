@@ -6,7 +6,7 @@ function Card(props) {
     return (
         <div class="col-lg-4 col-md-6 col-sm-12">
             <div class="card project-card">
-                <img className="img-fluid card-img-top project-img" src={props.image} alt={props.alt}  href={props.live}/>
+               <a href={props.live}><img className="img-fluid card-img-top project-img" src={props.image} alt={props.alt}/></a>
                 <div className="card-body">
                     <h5 className="card-title" 
                     style={{textDecorationLine: 'underline', textAlign: 'center', fontWeight: 'bold'}}>{props.title}</h5>

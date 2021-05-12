@@ -40,7 +40,7 @@ export default [
     {
         "image": "/Images/caricon.jpg", 
         "alt": "Recharge",
-        "live": "https://markkimeyer.github.io/daily-planner/",
+        "live": "https://markkimeyer.github.io/RechargeCarApp/",
          "title": "Project One: Recharge",
          "description": "An application to connect electric car owners with nearby charging stations. Myself and 3 others created this app using Ajax calls from several APIs.",
         "repo": "https://github.com/markkimeyer/RechargeCarApp" 
@@ -49,7 +49,7 @@ export default [
         "image": "/Images/EMPdirect.png", 
         "alt": "Employee Directory",
         "live": "https://markkimeyer.github.io/new-employee-directory/",
-         "title": "Fitness Tracker",
+         "title": "Employee Directory",
          "description": "This app allows users to view employees in a directory containing an image, first and last name, phone number, email address, and date of birth. The employees can be sorted in ascending or descending order by name, phone, or date of birth. There is also a search box that can be used to filter employeees by name as the name is typed.",
         "repo": "https://github.com/markkimeyer/new-employee-directory" 
     },
