@@ -9,6 +9,11 @@ p {
     font-family: 'Open Sans', sans-serif;
 
 }
+
+.card-body {
+    min-height: 500px;
+}
+
 h1 {
     font-family: 'Nunito', sans-serif;
     color:#323738;
