@@ -22,7 +22,7 @@ const Home = () => {
                     I’m a 30-year-old vibrant female persuing a career-change to web development. Currently I’m enrolled in the Full Stack Coding Bootcamp through the University of Minnesota with a graduation date of May 27,  2021. When I’m not in class or studying, I enjoy trail running with my dog, cooking, snowboarding, or catching up on reality TV shows. 
                 </p>
                 <p>
-                     I've been employeed with the global newspaper company, Naviga, since February of 2014. I've had few roles throughout the years in both Support and Implementation. Earlier this year, I transitioned back to support when I was promoted to a Senior Support Analyst. 
+                     I've been employed with the global newspaper company, Naviga, since February of 2014. I've had few roles throughout the years in both Support and Implementation. Earlier this year, I transitioned back to support when I was promoted to a Senior Support Analyst. 
                 </p>
                 <p>
                 This recent role-change was made to assist the one analyst that was managing the Online Circulation Management Queue. This queue mainly contains salesforce cases reported by customers experiencing issues from use with our APIs. Using templated and custom HTML, CSS, and JavaScript, I help clients create and customize their online portals used by the newspaper's subscribers and carriers. This has been a great opportunity to gain relevant experience in the web development industry. 
