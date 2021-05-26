@@ -7,10 +7,17 @@ export default [
         "alt": "project four screenshot",
         "live": "https://park-pack.herokuapp.com/",
          "title": "Project Two: Park Pack",
-         "description": "Created by myself and four others, this app allows users to create a user and dog profile, upload a picture, and view other users to create friendships. There is also a built-in chat feature.",
+         "description": "This app allows users to create a user and dog profile, upload a picture, and view other users to create friendships. There is also a built-in chat feature.",
         "repo": "https://github.com/markkimeyer/park-pack"
     },
-
+    {
+        "image": "/Images/karaoke.png", 
+        "alt": "karaoke machine",
+        "live": "https://coders-delight-karaoke.herokuapp.com/",
+         "title": "k{AR}aoke",
+         "description": "This singing app features songs and lyric videos with an augmented reality twist. Each song has a unique effect that makes you the star of a real-time music video!",
+        "repo": "https://github.com/markkimeyer/park-pack"
+    },
     {
         "image": "/Images/quizmvcircle.png", 
         "alt": "Quiz Whiz",
@@ -50,7 +57,7 @@ export default [
         "alt": "Employee Directory",
         "live": "https://markkimeyer.github.io/new-employee-directory/",
          "title": "Employee Directory",
-         "description": "This app allows users to view employees in a directory containing an image, first and last name, phone number, email address, and date of birth. The employees can be sorted in ascending or descending order by name, phone, or date of birth. There is also a search box that can be used to filter employeees by name as the name is typed.",
+         "description": "This employee directory contains an image, name, number, email, and date of birth. The employees can be sorted in ascending or descending order by name, phone, or date of birth.",
         "repo": "https://github.com/markkimeyer/new-employee-directory" 
     },
 ]

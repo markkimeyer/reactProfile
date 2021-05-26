@@ -1,14 +1,39 @@
 .card {
+    align-items: center;
     /* border: rgb(120, 194, 211) 5px solid; */
-    min-height: 16rem;
-    margin-bottom: 20px;
+    margin-bottom: 1rem;
+}
+/* 
+.card-body {
+    min-height: 12rem;
+} */
+
+.card-body p {
+    max-height: 22rem;
+    overflow:hidden;
+
 }
 
+.card-body p:hover{
+    overflow:auto;
 
+}
+
+.project-img {
+    height: 10rem;
+    width: 10rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
 a img.project-img:hover{
     opacity: 60%;
 
 }
 button:hover {
     font-weight: 600;
+}
+
+.card-body a {
+    position: absolute;
+    bottom: 2rem;
 }

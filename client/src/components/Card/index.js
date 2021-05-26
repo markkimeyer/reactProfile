@@ -13,8 +13,10 @@ function Card(props) {
                     <br></br>
                     <p className="card-text">{props.description}</p>
                     <br></br>
+                    <div style = {{display: 'flex', justifyContent: 'center'}}>
                     <a href = {props.repo}><button id="project-one-repo">Repository <i class="fab fa-github"></i></button>
                     </a>
+                    </div>
                 </div>
             </div>
         </div>
