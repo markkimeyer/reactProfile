@@ -1,7 +1,6 @@
 import React from "react";
 import "./style.css";
 import { Col, Row, Container } from "../components/Grid";
-import BackgroundVideo from "../components/BackgroundVideo"
 const Contact = () => {
     return (
         <Container fluid>
