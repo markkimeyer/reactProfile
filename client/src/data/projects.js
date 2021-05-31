@@ -6,9 +6,10 @@ export default [
         "image": "/Images/parkpackcircle.png", 
         "alt": "project four screenshot",
         "live": "https://park-pack.herokuapp.com/",
-         "title": "Project Two: Park Pack",
+         "title": "Park Pack",
          "description": "This app allows users to create a user and dog profile, upload a picture, and view other users to create friendships. There is also a built-in chat feature.",
-        "repo": "https://github.com/markkimeyer/park-pack"
+        "repo": "https://github.com/markkimeyer/park-pack",
+        "tech": "JavaScript"
     },
     {
         "image": "/Images/karaoke.png", 
@@ -19,12 +20,21 @@ export default [
         "repo": "https://github.com/markkimeyer/park-pack"
     },
     {
+        "image": "/Images/caricon.jpg", 
+        "alt": "Recharge",
+        "live": "https://markkimeyer.github.io/RechargeCarApp/",
+         "title": "Recharge",
+         "description": "An application to connect electric car owners with nearby charging stations. Myself and 3 others created this app using Ajax calls from several APIs.",
+        "repo": "https://github.com/markkimeyer/RechargeCarApp" 
+    },
+    {
         "image": "/Images/quizmvcircle.png", 
         "alt": "Quiz Whiz",
         "live": "https://markkimeyer.github.io/codeQUIZ/",
          "title": "Pup Quiz",
          "description": "Try your paws at this timed multiple choice quiz on several different dog breeds.",
-        "repo": "https://github.com/markkimeyer/codeQUIZ" 
+        "repo": "https://github.com/markkimeyer/codeQUIZ",
+        "tech": ["Vanilla Javascript", ", ", "HTML", ", ","bootstrap"]
     }
     ,
     {
@@ -44,14 +54,7 @@ export default [
          "description": "This app allows users to view, create, and track daily workouts. Multiple exercises in a workout can be logged and are then encorporated into totals, stats, and range.",
         "repo": "https://github.com/markkimeyer/fitness-tracker" 
     },
-    {
-        "image": "/Images/caricon.jpg", 
-        "alt": "Recharge",
-        "live": "https://markkimeyer.github.io/RechargeCarApp/",
-         "title": "Project One: Recharge",
-         "description": "An application to connect electric car owners with nearby charging stations. Myself and 3 others created this app using Ajax calls from several APIs.",
-        "repo": "https://github.com/markkimeyer/RechargeCarApp" 
-    },
+   
     {
         "image": "/Images/EMPdirect.png", 
         "alt": "Employee Directory",

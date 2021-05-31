@@ -23,7 +23,8 @@ const Gallery = () => {
                      live = {project.live} 
                      title= {project.title} 
                      description = {project.description} 
-                    repo= {project.repo}  
+                    repo= {project.repo} 
+                    tech= {project.tech}
                         />))}
                
                         </Row>

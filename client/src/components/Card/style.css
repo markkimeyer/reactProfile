@@ -2,11 +2,9 @@
     align-items: center;
     /* border: rgb(120, 194, 211) 5px solid; */
     margin-bottom: 1rem;
+    display: flex;
 }
-/* 
-.card-body {
-    min-height: 12rem;
-} */
+ 
 
 .card-body p {
     max-height: 22rem;
@@ -33,7 +31,7 @@ button:hover {
     font-weight: 600;
 }
 
-.card-body a {
-    position: absolute;
+button {
     bottom: 2rem;
+    /* position: absolute; */
 }
