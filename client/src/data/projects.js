@@ -14,9 +14,9 @@ export default [
     {
         "image": "/Images/karaoke.png", 
         "alt": "karaoke machine",
-        "live": "https://coders-delight-karaoke.herokuapp.com/",
+        "live": "https://just-duet-karaoke.herokuapp.com/",
          "title": "k{AR}aoke",
-         "description": "This singing app features songs and lyric videos with an augmented reality twist. Each song has a unique effect that makes you the star of a real-time music video!",
+         "description": "This singing app features songs and lyric videos with an augmented reality twist. Each song has a unique effect to make your own real-time music video!",
         "repo": "https://github.com/markkimeyer/park-pack",
         "tech": ["Javascript", ", ", "HTML", ", ","bootstrap",", ","react,js",", ","MongoDB",", ","bcrypt",", ","PoseNet",", ","Ml5",", ","p5"]
     },
@@ -26,7 +26,8 @@ export default [
         "live": "https://markkimeyer.github.io/RechargeCarApp/",
          "title": "Recharge",
          "description": "An application to connect electric car owners with nearby charging stations. Myself and 3 others created this app using Ajax calls from several APIs.",
-        "repo": "https://github.com/markkimeyer/RechargeCarApp" 
+        "repo": "https://github.com/markkimeyer/RechargeCarApp",
+        "tech": ["HTML5", ", ","CSS", ", ","JavaScript", ", ","jQuery", ", ","Ajax", ", ","Bulma", ", ","Mapquest"]
     },
     {
         "image": "/Images/EMPdirect.png", 
@@ -35,25 +36,27 @@ export default [
          "title": "Employee Directory",
          "description": "This employee directory contains an image, name, number, email, and date of birth. The employees can be sorted in ascending or descending order by name, phone, or date of birth.",
         "repo": "https://github.com/markkimeyer/new-employee-directory",
-        "tech": ["React", ", ", "JavaScript", ", ","CSS", "Sort functionality"]
+        "tech": ["React", ", ", "JavaScript", ", ","CSS", ", " ,"Sort functionality", ", ", "Random-user API"]
     },
-    {
-        "image": "/Images/quizmvcircle.png", 
-        "alt": "Quiz Whiz",
-        "live": "https://markkimeyer.github.io/codeQUIZ/",
-         "title": "Pup Quiz",
-         "description": "Try your paws at this timed multiple choice quiz on several different dog breeds.",
-        "repo": "https://github.com/markkimeyer/codeQUIZ",
-        "tech": ["Vanilla Javascript", ", ", "HTML", ", ","bootstrap"]
-    }
-    ,
+    
     {
         "image": "/Images/newcal.png", 
         "alt": "Daily Planner",
         "live": "https://markkimeyer.github.io/daily-planner/",
          "title": "Daily Planner",
          "description": "A web tool to help you schedule your work day. Always current with today's date and time and time blocks are color-coded according to a state in the past, present, or future.",
-        "repo": "https://github.com/markkimeyer/daily-planner" 
+        "repo": "https://github.com/markkimeyer/daily-planner",
+        "tech": ["jQuery", ", ","JavaScript", ", ","moment.js", ", ","CSS", ", ","Local storage"] 
+    }
+    ,
+    {
+        "image": "/Images/quizmvcircle.png", 
+        "alt": "Quiz Whiz",
+        "live": "https://markkimeyer.github.io/codeQUIZ/",
+         "title": "Pup Quiz",
+         "description": "Try your paws at this timed multiple choice quiz on several different dog breeds. Try your best, the top dog with the hightest score will make it to the 'howl of fame!'",
+        "repo": "https://github.com/markkimeyer/codeQUIZ",
+        "tech": ["Vanilla Javascript", ", ", "HTML", ", ","CSS", ", ","bootstrap", "HTML", ", "]
     }
     ,
     {
@@ -62,7 +65,8 @@ export default [
         "live": "https://mm-fitness-tracker.herokuapp.com/",
          "title": "Fitness Tracker",
          "description": "This app allows users to view, create, and track daily workouts. Multiple exercises in a workout can be logged and are then encorporated into totals, stats, and range.",
-        "repo": "https://github.com/markkimeyer/fitness-tracker" 
+        "repo": "https://github.com/markkimeyer/fitness-tracker",
+        "tech": ["MongoDB", ", ", "Mongoose", ", ", "express", ", ","Express Router", ", ","JavaScript"]
     },
    
    

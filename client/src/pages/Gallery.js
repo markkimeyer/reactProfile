@@ -40,7 +40,6 @@ const Gallery = () => {
                 </br>
                 <br>
                 </br>
-       
         </Container>
   );
 };

@@ -52,3 +52,10 @@ body {
     padding-bottom: 10px;
 }
 
+#skip-to-gallery {
+    color:darkcyan;
+    text-align: right;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+}
+

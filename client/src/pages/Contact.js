@@ -41,6 +41,28 @@ const Contact = () => {
                         </a>
                     </Col>
                 </div>
+                <div class="contactRow Row">
+                    <Col size="md-12">
+                        <p/>
+                    </Col>
+                    </div>
+                    <div class="contactRow Row">
+                    <Col size="md-12">
+                        <p/>
+                    </Col>
+                    </div>
+                    <div class="contactRow Row">
+                    <Col size="md-12">
+                        <p/>
+                    </Col>
+                    </div>
+                <div class="contactRow Row">
+                    <Col size="md-12">
+      <h3>Thanks for visiting my page!</h3>
+    </Col>
+      </div>
+
+
             </div>
         </Container>
 
